@@ -1,2 +1,2 @@
 # DeepNeuralNetwork
-Testing Deep NN's
+Research with Deep learning Neural Networks
